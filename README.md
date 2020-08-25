@@ -1,6 +1,6 @@
 # first_app
 
-A new Flutter project.
+Mobile app for expenses
 
 ## Getting Started
 
